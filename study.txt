@@ -1,0 +1,3 @@
+study v1.0
+study v1.1
+study v1.5
